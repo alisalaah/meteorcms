@@ -1,3 +1,13 @@
+DEPRECATION
+===========
+
+This project is no longer maintained. Some actively maintained Meteor CMS apps are:
+
+* [Meteor CMS](https://github.com/nicolaslopezj/meteor-cms)
+* [Azimuth](https://github.com/mcrider/azimuth)
+* [Aware Unit](https://github.com/SteelzZ/au-cmsinn/)
+* [Meteor Admin](https://github.com/yogiben/meteor-admin)
+
 meteorcms v 0.1
 =========
 
